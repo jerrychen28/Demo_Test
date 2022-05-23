@@ -1,0 +1,152 @@
+2022-05-22 22:31:07,385  basepage.pyINFOSleep for 1 seconds
+2022-05-22 22:31:07,473  basepage.pyINFOThe element looked up is ('css selector', '#product-4>div>p>a') 
+2022-05-22 22:31:07,908  basepage.pyINFOThe element ' Buy ' was clicked.
+2022-05-22 22:31:07,973  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:08,990  basepage.pyINFOSleep for 1 seconds
+2022-05-22 22:31:09,079  basepage.pyINFOThe element looked up is ('css selector', '#product-4>div>p>a') 
+2022-05-22 22:31:09,546  basepage.pyINFOThe element ' Buy ' was clicked.
+2022-05-22 22:31:09,632  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:10,661  basepage.pyINFOSleep for 1 seconds
+2022-05-22 22:31:10,756  basepage.pyINFOThe element looked up is ('css selector', '#product-7>div>p>a') 
+2022-05-22 22:31:11,296  basepage.pyINFOThe element ' Buy ' was clicked.
+2022-05-22 22:31:11,382  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:12,417  basepage.pyINFOSleep for 1 seconds
+2022-05-22 22:31:12,506  basepage.pyINFOThe element looked up is ('css selector', '#product-7>div>p>a') 
+2022-05-22 22:31:12,931  basepage.pyINFOThe element ' Buy ' was clicked.
+2022-05-22 22:31:13,035  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:14,063  basepage.pyINFOSleep for 1 seconds
+2022-05-22 22:31:14,151  basepage.pyINFOThe element looked up is ('css selector', '#product-7>div>p>a') 
+2022-05-22 22:31:14,519  basepage.pyINFOThe element ' Buy ' was clicked.
+2022-05-22 22:31:14,573  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:15,607  basepage.pyINFOSleep for 1 seconds
+2022-05-22 22:31:15,706  basepage.pyINFOThe element looked up is ('css selector', 'li#nav-cart>a') 
+2022-05-22 22:31:16,260  basepage.pyINFOThe element ' Cart (10) ' was clicked.
+2022-05-22 22:31:16,359  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:16,676  basepage.pyINFOThe element looked up is ('xpath', '//tr[1]/td[1]') 
+2022-05-22 22:31:16,769  test_jupiter_toy.pyINFOEach product name is correct
+2022-05-22 22:31:16,859  basepage.pyINFOThe element looked up is ('xpath', '//tr[1]/td[2]') 
+2022-05-22 22:31:16,960  test_jupiter_toy.pyINFOEach product price is correct
+2022-05-22 22:31:17,045  basepage.pyINFOThe element looked up is ('xpath', '//tr[1]/td[4]') 
+2022-05-22 22:31:17,157  test_jupiter_toy.pyINFOEach product subtotal price is correct
+2022-05-22 22:31:17,253  basepage.pyINFOThe element looked up is ('xpath', '//tr[2]/td[1]') 
+2022-05-22 22:31:17,361  test_jupiter_toy.pyINFOEach product name is correct
+2022-05-22 22:31:17,459  basepage.pyINFOThe element looked up is ('xpath', '//tr[2]/td[2]') 
+2022-05-22 22:31:17,551  test_jupiter_toy.pyINFOEach product price is correct
+2022-05-22 22:31:17,647  basepage.pyINFOThe element looked up is ('xpath', '//tr[2]/td[4]') 
+2022-05-22 22:31:17,786  test_jupiter_toy.pyINFOEach product subtotal price is correct
+2022-05-22 22:31:17,828  basepage.pyINFOThe element looked up is ('xpath', '//tr[3]/td[1]') 
+2022-05-22 22:31:17,881  test_jupiter_toy.pyINFOEach product name is correct
+2022-05-22 22:31:17,946  basepage.pyINFOThe element looked up is ('xpath', '//tr[3]/td[2]') 
+2022-05-22 22:31:17,980  test_jupiter_toy.pyINFOEach product price is correct
+2022-05-22 22:31:18,032  basepage.pyINFOThe element looked up is ('xpath', '//tr[3]/td[4]') 
+2022-05-22 22:31:18,108  test_jupiter_toy.pyINFOEach product subtotal price is correct
+2022-05-22 22:31:18,171  basepage.pyINFOThe element looked up is ('css selector', 'strong.total') 
+2022-05-22 22:31:18,247  test_jupiter_toy.pyINFOTotal price is correct
+2022-05-22 22:31:18,372  basepage.pyINFOThe element looked up is ('link text', 'Contact') 
+2022-05-22 22:31:18,680  basepage.pyINFOThe element ' Contact ' was clicked.
+2022-05-22 22:31:18,753  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:19,295  basepage.pyINFOThe element looked up is ('id', 'forename') 
+2022-05-22 22:31:19,394  test_jupiter_toy.pyINFOAlready entered into the contact page
+2022-05-22 22:31:22,444  basepage.pyINFOSleep for 3 seconds
+2022-05-22 22:31:22,618  basepage.pyINFOThe element looked up is ('link text', 'Submit') 
+2022-05-22 22:31:23,280  basepage.pyINFOThe element ' Submit ' was clicked.
+2022-05-22 22:31:23,381  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:53,430  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:31:53,532  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-error>strong') 
+2022-05-22 22:31:53,645  test_jupiter_toy.pyINFOAlert message pass after directly clicking submit button
+2022-05-22 22:31:53,756  basepage.pyINFOThe element looked up is ('id', 'forename') 
+2022-05-22 22:31:54,062  basepage.pyINFOtyping ' Jerry ' in inputBox
+2022-05-22 22:31:54,204  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:54,372  basepage.pyINFOThe element looked up is ('id', 'email') 
+2022-05-22 22:31:54,809  basepage.pyINFOtyping ' jerry.xin.chen1@gmail.com ' in inputBox
+2022-05-22 22:31:54,936  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:55,078  basepage.pyINFOThe element looked up is ('id', 'message') 
+2022-05-22 22:31:55,545  basepage.pyINFOtyping ' Good product. ' in inputBox
+2022-05-22 22:31:55,644  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:31:55,813  basepage.pyINFOThe element looked up is ('link text', 'Submit') 
+2022-05-22 22:31:56,434  basepage.pyINFOThe element ' Submit ' was clicked.
+2022-05-22 22:31:56,582  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:32:26,644  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:32:26,753  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:32:26,864  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:32:27,055  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 
+2022-05-22 22:32:37,655  basepage.pyINFOThe element looked up is ('id', 'forename') 
+2022-05-22 22:32:38,010  basepage.pyINFOtyping ' Jerry ' in inputBox
+2022-05-22 22:32:38,122  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:32:38,242  basepage.pyINFOThe element looked up is ('id', 'email') 
+2022-05-22 22:32:38,716  basepage.pyINFOtyping ' jerry.xin.chen1@gmail.com ' in inputBox
+2022-05-22 22:32:38,818  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:32:38,913  basepage.pyINFOThe element looked up is ('id', 'message') 
+2022-05-22 22:32:39,453  basepage.pyINFOtyping ' Good products. ' in inputBox
+2022-05-22 22:32:39,582  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:32:39,808  basepage.pyINFOThe element looked up is ('link text', 'Submit') 
+2022-05-22 22:32:40,512  basepage.pyINFOThe element ' Submit ' was clicked.
+2022-05-22 22:32:40,657  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:33:10,742  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:33:10,874  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:33:11,015  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:33:11,230  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 
+2022-05-22 22:33:21,706  basepage.pyINFOThe element looked up is ('id', 'forename') 
+2022-05-22 22:33:21,927  basepage.pyINFOtyping ' JerryChen ' in inputBox
+2022-05-22 22:33:22,025  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:33:22,125  basepage.pyINFOThe element looked up is ('id', 'email') 
+2022-05-22 22:33:22,338  basepage.pyINFOtyping ' jerry.xin.chen2@gmail.com ' in inputBox
+2022-05-22 22:33:22,463  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:33:22,588  basepage.pyINFOThe element looked up is ('id', 'message') 
+2022-05-22 22:33:22,940  basepage.pyINFOtyping ' perfect products. ' in inputBox
+2022-05-22 22:33:23,111  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:33:23,331  basepage.pyINFOThe element looked up is ('link text', 'Submit') 
+2022-05-22 22:33:23,976  basepage.pyINFOThe element ' Submit ' was clicked.
+2022-05-22 22:33:24,157  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:33:54,240  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:33:54,375  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:33:54,540  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:33:54,778  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 
+2022-05-22 22:34:05,346  basepage.pyINFOThe element looked up is ('id', 'forename') 
+2022-05-22 22:34:05,707  basepage.pyINFOtyping ' Jerry_Chen ' in inputBox
+2022-05-22 22:34:05,880  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:34:06,029  basepage.pyINFOThe element looked up is ('id', 'email') 
+2022-05-22 22:34:06,528  basepage.pyINFOtyping ' jerry.xin.chen3@gmail.com ' in inputBox
+2022-05-22 22:34:06,703  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:34:06,825  basepage.pyINFOThe element looked up is ('id', 'message') 
+2022-05-22 22:34:07,273  basepage.pyINFOtyping ' Service ok. ' in inputBox
+2022-05-22 22:34:07,433  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:34:07,667  basepage.pyINFOThe element looked up is ('link text', 'Submit') 
+2022-05-22 22:34:08,397  basepage.pyINFOThe element ' Submit ' was clicked.
+2022-05-22 22:34:08,563  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:34:38,660  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:34:38,809  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:34:38,980  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:34:39,233  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 
+2022-05-22 22:34:49,937  basepage.pyINFOThe element looked up is ('id', 'forename') 
+2022-05-22 22:34:50,244  basepage.pyINFOtyping ' Jerry-Chen ' in inputBox
+2022-05-22 22:34:50,418  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:34:50,586  basepage.pyINFOThe element looked up is ('id', 'email') 
+2022-05-22 22:34:51,109  basepage.pyINFOtyping ' jerry.xin.chen4@gmail.com ' in inputBox
+2022-05-22 22:34:51,269  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:34:51,392  basepage.pyINFOThe element looked up is ('id', 'message') 
+2022-05-22 22:34:51,844  basepage.pyINFOtyping ' Service okay. ' in inputBox
+2022-05-22 22:34:52,017  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:34:52,243  basepage.pyINFOThe element looked up is ('link text', 'Submit') 
+2022-05-22 22:34:52,812  basepage.pyINFOThe element ' Submit ' was clicked.
+2022-05-22 22:34:53,000  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:35:23,111  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:35:23,262  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:35:23,433  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:35:23,667  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 
+2022-05-22 22:35:34,269  basepage.pyINFOThe element looked up is ('id', 'forename') 
+2022-05-22 22:35:34,471  basepage.pyINFOtyping ' Jerry*Chen ' in inputBox
+2022-05-22 22:35:34,588  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:35:34,697  basepage.pyINFOThe element looked up is ('id', 'email') 
+2022-05-22 22:35:34,973  basepage.pyINFOtyping ' jerry.xin.chen5@gmail.com ' in inputBox
+2022-05-22 22:35:35,086  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:35:35,210  basepage.pyINFOThe element looked up is ('id', 'message') 
+2022-05-22 22:35:35,457  basepage.pyINFOtyping ' Good experience. ' in inputBox
+2022-05-22 22:35:35,601  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:35:35,806  basepage.pyINFOThe element looked up is ('link text', 'Submit') 
+2022-05-22 22:35:36,056  basepage.pyINFOThe element ' Submit ' was clicked.
+2022-05-22 22:35:36,219  basepage.pyINFOImplicitly waiting for 10 seconds
+2022-05-22 22:36:06,328  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:36:06,503  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:36:06,697  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:36:06,963  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 

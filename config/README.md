@@ -1,0 +1,1 @@
+Basic config of browser and test url

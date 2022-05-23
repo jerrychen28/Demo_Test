@@ -1,0 +1,1 @@
+Encapsulate log module for log output

@@ -1,0 +1,7 @@
+2022-05-22 22:36:06,328  basepage.pyINFOSleep for 30 seconds
+2022-05-22 22:36:06,503  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:36:06,503  basepage.pyINFOThe element looked up is ('css selector', 'div.alert-success>strong') 
+2022-05-22 22:36:06,697  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:36:06,697  test_jupiter_toy.pyINFOSuccess message shown pass after entering mandatory fields and submitting
+2022-05-22 22:36:06,963  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 
+2022-05-22 22:36:06,963  basepage.pyINFOThe element looked up is ('link text', '\xc2\xab Back') 

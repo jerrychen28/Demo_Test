@@ -1,0 +1,1 @@
+Encapsulate browsers for selection and the corresponding drivers
